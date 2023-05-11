@@ -60,3 +60,17 @@ body {
     height: 300px;
     padding-bottom: 100px;
 }
+
+@media screen and (max-width:700px) {
+    .column22 {
+        width: 100%;
+        float: left;
+        text-align: justify;
+    }
+
+    .column2 {
+        width: 100%;
+        float: left;
+        text-align: justify;
+    }
+}
